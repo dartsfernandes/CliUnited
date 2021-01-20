@@ -1,0 +1,10 @@
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\bin\Debug\CliUnited.database.dacpac
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\bin\Debug\CliUnited.database.dll
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\bin\Debug\CliUnited.database.pdb
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\obj\Debug\CliUnited.database.sqlprojAssemblyReference.cache
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\obj\Debug\CliUnited.database.dll
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\obj\Debug\CliUnited.database.pdb
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\obj\Debug\Model.xml
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\obj\Debug\refactor.xml
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\obj\Debug\postdeploy.sql
+C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.database\obj\Debug\predeploy.sql
