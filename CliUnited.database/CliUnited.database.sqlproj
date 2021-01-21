@@ -6,7 +6,7 @@
     <Name>CliUnited.database</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{1896e2c9-2a28-4ba9-971e-daf1a34fb2af}</ProjectGuid>
+    <ProjectGuid>{5be13f69-4ef4-475c-9253-e59ad54fc0b2}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -56,11 +56,5 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="CliUnited.database.publish.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Build Include="Table1.sql" />
   </ItemGroup>
 </Project>

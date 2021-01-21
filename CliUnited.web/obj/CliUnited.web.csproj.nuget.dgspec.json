@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\X571\\Desktop\\CliUnited\\CliUnited\\CliUnited.web\\CliUnited.web.csproj": {}
+    "C:\\Users\\X571\\Documents\\CliUnited\\CliUnited.web\\CliUnited.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\X571\\Desktop\\CliUnited\\CliUnited\\CliUnited.web\\CliUnited.web.csproj": {
+    "C:\\Users\\X571\\Documents\\CliUnited\\CliUnited.web\\CliUnited.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\X571\\Desktop\\CliUnited\\CliUnited\\CliUnited.web\\CliUnited.web.csproj",
+        "projectUniqueName": "C:\\Users\\X571\\Documents\\CliUnited\\CliUnited.web\\CliUnited.web.csproj",
         "projectName": "CliUnited.web",
-        "projectPath": "C:\\Users\\X571\\Desktop\\CliUnited\\CliUnited\\CliUnited.web\\CliUnited.web.csproj",
+        "projectPath": "C:\\Users\\X571\\Documents\\CliUnited\\CliUnited.web\\CliUnited.web.csproj",
         "packagesPath": "C:\\Users\\X571\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\X571\\Desktop\\CliUnited\\CliUnited\\CliUnited.web\\obj\\",
+        "outputPath": "C:\\Users\\X571\\Documents\\CliUnited\\CliUnited.web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
