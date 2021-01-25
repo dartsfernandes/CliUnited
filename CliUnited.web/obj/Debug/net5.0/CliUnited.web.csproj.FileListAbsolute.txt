@@ -77,3 +77,45 @@ C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.R
 C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.Views.pdb
 C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.genruntimeconfig.cache
 C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CopyComplete
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.Development.json
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.json
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.exe
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.deps.json
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.json
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.dev.json
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.dll
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\ref\CliUnited.web.dll
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.pdb
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.dll
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.pdb
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csprojAssemblyReference.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfoInputs.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfo.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CoreCompileInputs.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.Manifest.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.xml
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\scopedcss\bundle\CliUnited.web.styles.css
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.input.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.output.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorCoreGenerate.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.Views.pdb
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.dll
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\ref\CliUnited.web.dll
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.pdb
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.genruntimeconfig.cache
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CopyComplete
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Quem_Somos.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Marcar_Consulta.cshtml.g.cs
+D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs

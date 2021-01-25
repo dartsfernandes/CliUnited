@@ -23,10 +23,20 @@ namespace CliUnited.web.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Quem_Somos()
         {
             return View();
         }
+
+        public IActionResult Marcar_Consulta()
+        {
+            return View();
+        }
+        public IActionResult Login()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
