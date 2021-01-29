@@ -1,121 +1,216 @@
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.json
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.exe
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.deps.json
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.json
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.dev.json
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.dll
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\ref\CliUnited.web.dll
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.pdb
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.dll
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.pdb
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfoInputs.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfo.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CoreCompileInputs.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.Manifest.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.xml
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\scopedcss\bundle\CliUnited.web.styles.css
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.input.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.output.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorCoreGenerate.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cs
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.Views.pdb
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.dll
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\ref\CliUnited.web.dll
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.pdb
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.genruntimeconfig.cache
-C:\Users\X571\Desktop\CliUnited\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CopyComplete
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csprojAssemblyReference.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfoInputs.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfo.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CoreCompileInputs.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.dll
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\ref\CliUnited.web.dll
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.pdb
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.json
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.exe
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.deps.json
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.json
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.dev.json
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.dll
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\ref\CliUnited.web.dll
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.pdb
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.dll
-C:\Users\X571\Documents\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.pdb
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.Manifest.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.xml
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\scopedcss\bundle\CliUnited.web.styles.css
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.input.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.output.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorCoreGenerate.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cs
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.Views.pdb
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.genruntimeconfig.cache
-C:\Users\X571\Documents\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CopyComplete
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.Development.json
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\appsettings.json
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.exe
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.deps.json
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.json
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.runtimeconfig.dev.json
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.dll
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\ref\CliUnited.web.dll
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.pdb
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.dll
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\bin\Debug\net5.0\CliUnited.web.Views.pdb
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csprojAssemblyReference.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfoInputs.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.AssemblyInfo.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CoreCompileInputs.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorAssemblyInfo.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.Manifest.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\staticwebassets\CliUnited.web.StaticWebAssets.xml
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\scopedcss\bundle\CliUnited.web.styles.css
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.input.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.TagHelpers.output.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorCoreGenerate.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.RazorTargetAssemblyInfo.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.Views.pdb
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.dll
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\ref\CliUnited.web.dll
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.pdb
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.genruntimeconfig.cache
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\CliUnited.web.csproj.CopyComplete
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Quem_Somos.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Marcar_Consulta.cshtml.g.cs
-D:\Ambiente de Trabalho\CliUnited\CliUnited.web\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.json
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.exe
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.deps.json
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.json
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.dev.json
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.dll
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/ref/CliUnited.web.dll
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.pdb
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.dll
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.pdb
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfoInputs.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfo.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CoreCompileInputs.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.Manifest.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.xml
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/scopedcss/bundle/CliUnited.web.styles.css
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.input.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.output.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorCoreGenerate.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cs
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.Views.pdb
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.dll
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/ref/CliUnited.web.dll
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.pdb
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.genruntimeconfig.cache
+C:/Users/X571/Desktop/CliUnited/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CopyComplete
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csprojAssemblyReference.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfoInputs.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfo.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CoreCompileInputs.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.dll
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/ref/CliUnited.web.dll
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.pdb
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.json
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.exe
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.deps.json
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.json
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.dev.json
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.dll
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/ref/CliUnited.web.dll
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.pdb
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.dll
+C:/Users/X571/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.pdb
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.Manifest.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.xml
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/scopedcss/bundle/CliUnited.web.styles.css
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.input.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.output.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorCoreGenerate.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cs
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.Views.pdb
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.genruntimeconfig.cache
+C:/Users/X571/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CopyComplete
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.Development.json
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.json
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.exe
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.deps.json
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.json
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.dev.json
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.dll
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/ref/CliUnited.web.dll
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.pdb
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.dll
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.pdb
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csprojAssemblyReference.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfoInputs.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfo.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CoreCompileInputs.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.Manifest.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.xml
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/scopedcss/bundle/CliUnited.web.styles.css
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.input.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.output.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorCoreGenerate.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.Views.pdb
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.dll
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/ref/CliUnited.web.dll
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.pdb
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.genruntimeconfig.cache
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CopyComplete
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Quem_Somos.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Marcar_Consulta.cshtml.g.cs
+D:/Ambiente de Trabalho/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Login.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.Development.json
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/appsettings.json
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.deps.json
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.json
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.runtimeconfig.dev.json
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/ref/CliUnited.web.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/CliUnited.web.Views.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csprojAssemblyReference.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfoInputs.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.AssemblyInfo.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CoreCompileInputs.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.MvcApplicationPartsAssemblyInfo.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorAssemblyInfo.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.Manifest.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/staticwebassets/CliUnited.web.StaticWebAssets.xml
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/scopedcss/bundle/CliUnited.web.styles.css
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.input.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.TagHelpers.output.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorCoreGenerate.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Login.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Marcar_Consulta.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Home/Quem_Somos.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.RazorTargetAssemblyInfo.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.Views.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/ref/CliUnited.web.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.genruntimeconfig.cache
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/CliUnited.web.csproj.CopyComplete
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/obj/Debug/net5.0/Razor/Views/consultas/Create.cshtml.g.cs
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Humanizer.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/danielsilva/Documents/CliUnited/CliUnited.web/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll

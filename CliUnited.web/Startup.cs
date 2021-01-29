@@ -8,15 +8,19 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CliUnited.web.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace CliUnited.web
 {
     public class Startup
     {
+        public IWebHostEnvironment Environment { get; }
         private readonly IConfiguration _configuration;
 
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration, IWebHostEnvironment env)
         {
+            Environment = env;
             _configuration = configuration;
         }
 
@@ -27,6 +31,20 @@ namespace CliUnited.web
             //    options => options.UseSqlServer(_configuration.GetConnectionString("Database")));
 
             services.AddControllersWithViews();
+
+            services.AddDbContext<ConsultaContext>(options =>
+            {
+                var connectionString = _configuration.GetConnectionString("Database");
+
+                if (Environment.IsDevelopment())
+                {
+                    options.UseSqlServer(connectionString);
+                }
+                else
+                {
+                    options.UseSqlite(connectionString);
+                }
+            });
         }
 
         //This method gets called by the runtime.Use this method to configure the HTTP request pipeline.
